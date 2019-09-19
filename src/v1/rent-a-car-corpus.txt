@@ -1,0 +1,232 @@
+Accident: Bad accident happened to me while I was driving your car. I was shocked and now being recovered, will post details later.
+Accident: Do you have instrcutions what to do in case of an accident because I have some fears going over overloaded highway...
+Accident: Hi guys, I am really sorry to say it, but my car caught fire, what should I do?
+Accident: Hi guys, I had an accident. what shall i do?
+Accident: I had a car accident. Nobody hurt, but car front got severely smashed.
+Accident: I had a severe accident on the road, my car collided with a truck. I need assistance to get my car to service station.
+Accident: I had an accident, the police will arrive soon. What should I do with the car?
+Accident: I had an accident, what should I do now?
+Accident: It was a horrible crash accident. My car was hit by a wheel broken away from another car and smashed my back. I need assistance!
+Accident: Some jerk drove into by car's back, I had to call police to register the accident. What should I do next?
+Accident: asshole smashed by cars back on the crossroads and police came to document it. should I call assistence service?
+Accident: A small accident occured to my car when I was inside a shop and my left mirror is now broken. Should I return car asap or I can continue using it?
+Accident: An accident occured to my car, front light is smashed, no injures to people. pls advise what to do
+Accident: Hi, someone crashed into a parked car, can you solve everything without me?
+Accident: I broke left front light of my car while driving out of my garage, I know that this is not covered but where can I get assistance for such accidents?
+Accident: I crashed into a tree, there are no victims. Can you solve this problem yourself? I am very busy now.
+Accident: I got into a small accident, should I return the car or will you take it yourself?
+Accident: I hit a road sign. Me and my passengers got no injures, but cars front is a bit smashed. I had not called police but I will take car to service
+Accident: I scratched the car through no fault of my own, what should i do now?
+Accident: I've accidentally broke right mirror of my car. How can I get it fixed?
+Accident: I've noticed that my car has a dent on the left front door. I have not seen an accident but I suspect somebody parked car near mine ina bad way. Will call police to document accident asap
+Accident: My car collided with another one on a parking lot. Neither I not other driver got any injures, but car side now has some scratches.
+Accident: My car has crashed but nobody was hurt in the accident. Now I need assistance to take my car to service.
+Accident: My car went into an accident due to a deep rut in a road. Where should I report that accident?
+Accident: My door mirror has been broken by some passing by car. I guess it was Mazda or something. How should I register the accident?
+Accident: My wing mirror was destroyed while my car was parked near shopping center. Should I call police?
+Accident: The car broke down on the track, there are small scratches. Can you call a tow truck?
+Accident: The car struck the wheel on the track, I think it is not my fault. Who should call a tow truck - me or you?
+Accident: Due to bad road accident I now have scratches on car body. It is operable but I suspect it's better to return it, am I right?
+Accident: I have a little crushed bumper, should I immediately return the car?
+Cancel: Hi guys, I want to cancel car reservation for next weekend.
+Cancel: Hi guys, our plans for tomorrow have changed, please cancel the car reservation.
+Cancel: I can not cancel the reservation on the site. Could you cancel my order?
+Cancel: I got better offer from other company, please cancel my pre-order.
+Cancel: I have recently cancelled my car booking.
+Cancel: I left this order by mistake, please cancel it.
+Cancel: I would like to call off my reservation if possible.
+Cancel: I would like to cancel my order
+Cancel: My plans for this month have changed and I would like to cancel my order.
+Cancel: My plans has changed, so I would like to call of my reservation.
+Cancel: Please cancel my order. I apologize
+Cancel: Please cancel my reservation, apologize.
+Cancel: Unfortunately I've recently had to cancel my car booking.
+Cancel: Unfortunately, I cannot make an advance payment of the order via the Internet, so pls cancel the reservation
+Cancel: Unfortunately, I would like to cancel my order and return the prepayment. Thank you for understanding.
+Cancel: my travel plans have changed so i have to cancel my order.
+Cancel: Do I need to pay extra fee if I cancel my car rent today?
+Cancel: Do you have free cancellation option?
+Cancel: Hi guys, does cancellation fee depend on the cancellation date?
+Cancel: I would like to cancel my reservation. What is your company's cancellation policy?
+Cancel: Is cancellation possible if only two days left?
+Cancel: Is free cancellation possible? On what conditions?
+Cancel: What are conditions for my cancellation to be accepted?
+Cancel: What is the standard cancellation fee and does it depend on the cancellation date?
+Cancel: What is the standard cancellation fee?
+Cancel: What is the standard cancellation fee? Does it depend on the cancellation date?
+Cancel: What is the standard fee in case of cancellation? Does it depend on the cancellation date?
+Cancel: What is your cancellation fee?
+Cancel: What is your company's cancellation policy?
+Cancel: What will be the cancellation fee if I will cancel my reservation in the next 24 hours?
+Cancel: What will be the cancellation fee if I'll cancel my reservation today?
+Cancel: Good afternoon, please tell me how can I cancel my reservation?
+Cancel: Hi guys, how can i cancel my booking?
+Cancel: How do I change or cancel my reservation?
+Cancel: hey, what do i have to do if i want to change my reservation?
+Cancel: Should I cancel my reservation as soon as possible in case of some unexpected event?
+Cancel: What happens if you don't cancel my car reservation in time?
+Cancel: This is the first time ever I cancelled an order by mistake. I apologize.
+Deposit: Hey, is a deposit required?
+Deposit: Dear Rent A Car team, is a deposit required when renting a vehicle in the US?
+Deposit: Is deposit required in US and Canada?
+Deposit: Do I need a deposit to rent a car while my vehicle is in the shop?
+Deposit: Dear friends, am I required to pay a deposit?
+Deposit: How can I avoid paying a deposit?
+Deposit: Hello! Can I rent a car without a deposit? Is it possible?
+Deposit: I would like to rent a car without paying a deposit - is it possible?
+Deposit: Is deposit a requirement or I can assure in some other way?
+Deposit: Do I necessarily have to put a deposit? hand note is not enough?
+Deposit: How much should I pay as deposit?
+Deposit: Could you tell me, how much should I pay as a deposit, please?
+Deposit: Please tell me about the deposit when renting a car: do you need that, how much?
+Deposit: Do you need a deposit and if yes - how much?
+Deposit: What is average deposit size? I need to estimate my spends
+Deposit: Does car hire deposit amount depends on the type of car?
+Deposit: Is deposit volume dependent on car size? Should I give more for the SUV?
+Deposit: When will I get my hire car deposit back?
+Deposit: When will I get my deposit back?
+Deposit: How can I return my deposit?
+Deposit: Can I get my deposit back instantly when I end my car rent or I have to wait?
+Deposit: Hi! If my car will be stolen, will I receive my deposit back?
+Deposit: On which conditions you will return my deposit?
+Deposit: Will I receive my deposit back if my car is stolen?
+Deposit: On which conditions you'll have to keep my deposit?
+Deposit: Under what conditions you will not return my deposit?
+Deposit: Will my deposit cover all the possible damage?
+Deposit: How can I reduce the deposit?
+Deposit: Your deposit is too big for me, maybe there is an opportunity to reduce this price?
+Deposit: Can I pay deposit with cash?
+Deposit: Sould I pay the deposit with cash or credit card?
+Deposit: Sould I pay my car rental deposit by cash or credit card?
+Deposit: I can give the deposit in cash only, does it suit you?
+Deposit: Can I put jewels as deposit? I did not manage to get some cash in the ATM
+Deposit: Where I have to put my deposit. Do you offer lockers or smth?
+Deposit: Can you take deposit in EUR? I have amount already prepared.
+Deposit: Do you take deposits in Euro? Because I have the amount needed and don't want to change
+Deposit: Can i give deposit in my local currency equivalent and then get back the same?
+Deposit: Hello! What is your car rental deposit policy?
+Deposit: I would like to know more about the deposit when renting a car. Can you explain everything to me?
+Deposit: Hi guys, Where can I find all the information about deposit rules?
+Deposit: Hi, please give me more information about your deposit rules.
+Insurance: Can I purchase car rental insurance and other Protection Products from Enterprise for a rental car in the United States?
+Insurance: I've heard that insurance coverage is not included in the rate for personal use rentals, can I buy one?
+Insurance: I want to rent a car securely. Tell me more about car insurance options you offer.
+Insurance: it's important to understand what your car insurance covers, and what the rental agency is offering
+Insurance: Hi, please tell me about insurance coverage that is included with my car.
+Insurance: What should I do to make sure my car is properly insured? I'm worried about the coverage.
+Insurance: Is my car and passengers properly insured while I drive on the highway?
+Insurance: Can I pass my insurance to next driver? is it covered buy your policy?
+Insurance: I would like to know more about the insurance you offer.
+Insurance: Does my credit card cover car rental insurance?
+Insurance: My car was insured properly but I got issues with the coverage. Can you please help?
+Insurance: Are your cars properly insured by Canada law? is coverage equal for both countries?
+Insurance: Are your cars properly insured by Canada law because I plan a trip there?
+Insurance: With your insurance, am I covered for the charges applied in the event of theft or damage to any part of the vehicle?
+Insurance: Before you rent a car, it's worth reviewing the coverage on your personal car insurance policy.
+Insurance: Hello, do I have insurance from car theft and minor damages? What else is included in the coverage?
+Insurance: What are benefits of Premium insurance coverage? Do you offer insurance for passengers?
+Insurance: Am I insured from car theft with your standard coverage?
+Insurance: I want to know more about the insurance included in the regular price.
+Insurance: Is my car properly insured from minor bumper damage caused on a parking lot or coverage is not that broad?
+Insurance: Do you offer passenger insurance along with driver insurance? Or only car damage is covered?
+Insurance: Do students get a discount on car insurance? And do they have limited coverage?
+Insurance: How can I save money on a your new car insurance policy. What are the coverage benefits?
+Insurance: I am a driver with a lot of experience and would like to save money on insurance - is it possible?
+Insurance: I want to take the minimum insurance. How much will it cost?
+Insurance: I want to get the usual insurance with a low price of renting a car.
+Insurance: Is my car insured? How to check your car insurance
+Insurance: Is it necessary to buy rental car insurance?
+Insurance: Do I need to bring my insurance card when renting a car?
+Insurance: Is a rental car covered by my insurance?
+Insurance: Do I need to also purchase life insurance in order to rent a car?6   Why is car insurance so expensive? I've seen much lower prices for the same coverage
+Insurance: How can I verify that I have proper coverage. I need my car insured
+Insurance: I would like to get full insurance from any accident and crash - how much will it cost?
+Insurance: Hi guys, how much will it cost full insurance ?
+Insurance: I need full insurance against any accident and accident. Ok ?
+Insurance: I would like to get full insurance from any accident and crash. How much will it cost?
+Invoice: I need an invoice for payment, can you send it to me by mail?
+Invoice: To pay for the account of the company, I need an invoice, send a scan by email.
+Invoice: Send me a invoice for renting a car, I need it to write off taxes.
+Invoice: Please resend me invoice for renting a car.
+Invoice: Send me a invoice, I need it to write off taxes.
+Invoice: Hello! I need my invoice today because it have to be paid by my employer before I start my trip.
+Invoice: Could you send me an invoice for my order.
+Invoice: Hi guys, for a trip report I need a bill, could you send it to me as soon as possible to this mailbox?
+Invoice: I can't find the order invoice in the mail, could you duplicate it?
+Invoice: I can not find an order invoice on your website. Please send it to me as soon as possible.
+Invoice: I never received my bill by mail, where is it?
+Invoice: I can not find your invoice in my mailbox, maybe it got into spam. Please send me a copy.
+Invoice: Good evening, please send me an updated invoice for my order.
+Invoice: I added changes to my order. How can I print a new bill?
+Invoice: Invoice on the website with an error, please send me the correct bill by email.
+Invoice: There are no taxes in your invoice, please send me the correct invoice.
+Invoice: Please make changes to my invoice and send me a new copy as soon as possible.
+Invoice: Could you write the invoice for me with the different billing address?
+Invoice: You have sent me invoice with the wrong billing address specified.
+Invoice: Could you sent me invoice with the different billing address specified? Thanks!
+Invoice: Can I find my invoice by reservation number?
+Invoice: I am trying to find my invoice. Can I do it by reservation number?
+Invoice: Please send me a bill for renting a car in company name.
+Invoice: Please send me a signed invoice for my order.
+Invoice: Please send me an invoice by fax to the phone number +7900005452
+Invoice: I would like to receive my invoice printed on the paper
+Invoice: I can't find on your website how to print my bill, can you help me?
+Invoice: Can you send me invoice sample please?
+Logistics: Can I pick up my car near ABC Business Center tomorrow morning?
+Logistics: Can I pick up a car in the Berlin airport?
+Logistics: Can I pick up a 5-door car in Frankfurt?
+Logistics: I need a 5-door car, do you have one available in Berlin?
+Logistics: Do you have 4-doors car available in Berlin?
+Logistics: I would like to rent a car in Berlin is this possible?
+Logistics: I want to get a car right in the airport, is it possible?
+Logistics: I have ordered a car at gate A, but I have arrived at gate B. Can I pick up some car on the lot nearby?
+Logistics: Do you have a car available in the Frankfurt airport?
+Logistics: Hi Dave, I want to pick-up the car in the airport and leave it in the city, is it possible?
+Logistics: I have to take emergency flight, can I leave my car at the airport parking lot?
+Logistics: I want to leave a car in another city, is this possible?
+Logistics: I have left my car at your office yesterday.
+Logistics: Can I select my drop-off location when I already picked up my car?
+Logistics: Hi, can i leave the car in Berlin? I rented it in Cologne.
+Logistics: I'm traveling now, can I return the rented car to another office?
+Logistics: How to drop off my rental car with no stress?
+Logistics: Do I have to pay one-way drop fee if leave it in the same city car was hired?
+Logistics: I want to rent a car in one city and leave it in another - is this possible?
+Logistics: I'm going to drop my car near subway station. Is it OK?
+Logistics: I would like to know in which cities you have branches and where can I return a rented car?
+Logistics: I would like to keep my rental vehicle for a few days longer; is that possible?
+Logistics: I would like to continue using my vehicle till the end of October.
+Logistics: Can I use my car 5 days longer? How much it will cost me?
+Logistics: I rented a car at city center yesterday. Can I keep it for one day more?
+Logistics: I would like to extend the lease for a week or two, what should I do?
+Logistics: Hi, can I return the car two days earlier?
+Logistics: Hi, can I keep my car for a few days more or I have to re-book?
+Logistics: I have a long meeting today and I'm not sure I can come by 3pm to pick up my car. Can you keep it till the end of the day?
+Logistics: My plans have changed - can I pick up the car tomorrow?
+Pay-problem: Bad issue has occured to my credit card so my payment is now stuck. Do you take cash?
+Pay-problem: Hi! I'm going to book a car from you; what are my payment options?
+Pay-problem: I can not make a prepayment via the Internet - does not work, what other options do you have?
+Pay-problem: I have forgotten my cheque-book at the office, can I pay with credit card or any other payment option you have?
+Pay-problem: Unfortunately, I can not make an advance payment via the Internet (something does not work). Can I pay in cash?
+Pay-problem: Your payment options are not appropriate for my case, do you support road cheques?
+Pay-problem: All your payment options are not acceptable for me. Can you help?
+Pay-problem: Can you pls help me making payment? cause I have a German credit card and cannot put its number on your site.
+Pay-problem: Could you please provide payment details for my car booking so that I could pay from France?
+Pay-problem: My credit card is not working in the UK, how else can I make payment?
+Pay-problem: Your site does not take wire transfers. How can I do my payment if I have no US credit card issued yet?
+Pay-problem: Hey Ami, i have some issues with payment. could be so kind and assist me?
+Pay-problem: Hi guys, my bank blocked my payment, they said they would contact you.
+Pay-problem: I'm having problems with my payment because of credit card limit. I will contact my bank and retry tomorrow.
+Pay-problem: My credit card has expired and I cannot complete my payment. Can you take cash or cheques this time?
+Pay-problem: bank denied my transaction and i must fix payment limits. will repeat payment later today
+Pay-problem: my credit card payment fails, what other payment methods do you support?
+Pay-problem: Bad thing happened to my payment transaction and I'm not sure should I repeat it or not. Could you please check?
+Pay-problem: Can you please confirm my payment? I am not able to check the payment status.
+Pay-problem: Hi, I have an issue with your payment service. It does not get my credit card number.
+Pay-problem: Hi, i've got unexpected payment problem and unsure how to solve. pls help
+Pay-problem: I can not make a prepayment, please check your payment details.
+Pay-problem: I was not able to make payment on your website, could there be a problem on your side?
+Pay-problem: My bank just called me about my last payment and they cancelled it. Do you have any info from your side?
+Pay-problem: Website does not take my payment, what should I do now?
+Pay-problem: You have withdrawn money from my account, but have not confirmed the payment on your website. Please solve this problem as soon as possible!
+Pay-problem: I have made the payment to a wrong account. Can you help me to return my money?
+Pay-problem: I have mistakenly transferred $200 to you. Is it possible to return my payment?
